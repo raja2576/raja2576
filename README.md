@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning advanced Spring Boot, Docker, and AI-driven financial risk analysis.
 - 💞️ I’m looking to  collaborate on open-source projects related to AI, fintech, and web applications,Server.
 - 📫 How to reach me ✉️ Email: rajakr.devloper@gmail.com
-                     🔗 LinkedIn: linkedin.com/in/raja-kumar-rana-a60715252
+                     🔗 LinkedIn: https://www.linkedin.com/in/raja-kumar-rana-a60715252/
 - 😄 Pronouns: He/Him
 - 💡 Love building: Smart, efficient, and scalable applications
 - ⚡ Fun fact: I helped build a Solar EV Bike backend system that processes real-time sensor data!
