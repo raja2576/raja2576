@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raja2576
+- 👋 Hi, I’m Raja
   
 - 🌟 Passionate Developer | ML Enthusiast | Tech Innovator | Backend Devloper
 - 👀 I’m interested in backend development, machine learning, and scalable system design.
