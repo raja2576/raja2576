@@ -2,8 +2,23 @@
 - 👋 Hi, I’m Raja<br>  <br>- 🌟 Passionate Developer | ML Enthusiast | Tech Innovator | Backend Devloper<br>- 👀 I’m interested in backend development, machine learning, and scalable system design.<br>- 🌱 I’m currently learning advanced Spring Boot, Docker, and AI-driven financial risk analysis.<br>- 💞️ I’m looking to  collaborate on open-source projects related to AI, fintech, and web applications,Server.<br>- 😄 Pronouns: He/Him<br>- 💡 Love building: Smart, efficient, and scalable applications<br>- ⚡ Fun fact: I helped build a Solar EV Bike backend system that processes real-time sensor data!<br><br>🛠️ Tech Stack<br>🚀 Languages: C | Java | Python | SQL<br>🛠️ Frameworks: Spring Boot | React.js | Scikit-Learn | Scrum (Agile)<br>💾 Databases: MySQL | PostgreSQL<br>🛠️ Tools: Git | GitHub | Docker | Kubernetes<br>☁ Cloud & DevOps: AWS | CI/CD Pipelines<br><br><br>🚀 Projects That Define Me:<br><br>💡 Climate-Integrated Stock Market Crash Prediction<br>🔹 Built a machine learning model that predicts stock crashes based on climate variables & financial indicators<br>🔹 Implemented Big Data concepts to analyze financial risks<br><br>💡 Aptitude Learning Platform<br>🔹 Created an interactive learning platform using React, Spring Boot, and MySQL<br>🔹 Features: JWT authentication, real-time tracking, adaptive ML-based recommendations<br><br>💡 Smart Contact Manager<br>🔹 Developed a secure contact management system using Spring Boot, Thymeleaf, MySQL<br>🔹 Integrated OAuth 2.0 & RBAC authentication for enhanced security<br><br>🔥 Let’s innovate, build, and change the world—one commit at a time! 🚀<br><br>📊 GitHub Stats<br>🔥 Code is life! Here’s a glimpse of my GitHub journey:<br><br><br>
 
 
-Finalist – MIT Global AI Hackathon
-Selected as a top-performing participant in a competitive, internationally recognized AI hackathon hosted by MIT. Collaborated with a diverse team to develop innovative AI-driven solutions under tight deadlines
+## 🏆 Achievements & Awards
+
+### 🧠 **Finalist – MIT Global AI Hackathon (Top 8 Team)**
+
+Co-developed **SkinGuard**, an AI-powered app that uses Google Gemini 2.0 Flash to detect and monitor skin conditions (e.g., acne, eczema) through selfies.
+🔍 Integrated diet, stress, and wearable data to uncover personalized triggers.
+📈 Achieved 92% dermatologist-level accuracy with privacy-first on-device processing.
+🌐 Selected among the **Top 8 global teams** out of thousands of entries.
+
+
+### 🔧 **Best Innovation Award – Solar EV Bike Project (KIIT SRC)**
+
+Awarded by the KIIT Student Research Community for backend development of a Solar EV Bike platform.
+⚙️ Built with **Spring Boot + MySQL**, enabling real-time sensor data processing and web-based analytics.
+🌞 Enhanced user experience with a responsive dashboard for live monitoring and control.
+🏅 Recognized for technical innovation and impactful energy research.
+
 
 
 ## 🌐 Socials:
